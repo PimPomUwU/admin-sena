@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class TradingCenter extends Model
+class TrainingCenter extends Model
 {
     //
 }
